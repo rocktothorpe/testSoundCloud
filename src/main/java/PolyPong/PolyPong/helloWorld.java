@@ -1,7 +1,11 @@
 package PolyPong.PolyPong;
+import java.util.*;
+import java.util.logging.*;
 
-public class helloWorld {
+public class HelloWorld {
+	private final static Logger LOGGER = Logger.getLogger(HelloWorld.class.getName());
 	public static void main(String[] args) {
-		System.out.println("hello world");
+		
+		LOGGER.info("hello world");
 	}
 }
