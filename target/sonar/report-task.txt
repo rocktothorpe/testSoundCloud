@@ -1,0 +1,7 @@
+organization=rocktothorpe-github
+projectKey=rocktothorpe_testSoundCloud
+serverUrl=https://sonarcloud.io
+serverVersion=7.5.0.19078
+dashboardUrl=https://sonarcloud.io/dashboard?id=rocktothorpe_testSoundCloud
+ceTaskId=AWb_KX8jTnw0J_G3HQyA
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWb_KX8jTnw0J_G3HQyA
